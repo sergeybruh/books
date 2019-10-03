@@ -1,14 +1,28 @@
 # books
 
-## Project setup
+
+## title field works after press enter or leaving field 
+
+## to run project please follow steps 1 and 2
+
+
+## 1 Project setup
 ```
 yarn install
 ```
 
-### Compiles and hot-reloads for development
+### 2 Compiles and hot-reloads for development
 ```
 yarn run serve
 ```
+
+
+
+
+
+
+
+
 
 ### Compiles and minifies for production
 ```
